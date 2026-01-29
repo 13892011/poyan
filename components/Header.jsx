@@ -5,7 +5,7 @@ function Header() {
     return (
         <header className='w-full h-24 border-b-[1px] border-[#9e9e9e3b] bg-[#bbbbbb21] flex'>
             <div className='w-1/3 h-full flex items-center'>
-                <p className='text-2xl font-bold text-slate-200 ml-8'>Mallah Beauty Center</p>
+                <p className='text-2xl font-bold text-slate-200 ml-8'>poyan Beauty Center</p>
             </div>
             <div className='w-1/3 h-full flex items-center justify-center space-x-5 text-slate-200 text-lg'>
                 <Link href={"#"}>Home</Link>
